@@ -1,0 +1,13 @@
+.referralContainer {
+}
+
+.referralContainer .alert {
+  color: #cc0000;
+}
+
+.formFooter {
+  text-align: center;
+  border: 1px solid red;
+  background: green;
+  margin: 0 auto;
+}
